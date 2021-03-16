@@ -1,0 +1,314 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "name1",
+            "email": "usermail1@gmail.com",
+            "password": "Password1!"
+        },
+        {
+            "id": 2,
+            "username": "name2",
+            "email": "usermail2@gmail.com",
+            "password": "Password2!"
+        },
+        {
+            "id": 3,
+            "username": "name3",
+            "email": "usermail3@gmail.com",
+            "password": "Password3!"
+        },
+        {
+            "id": 4,
+            "username": "name4",
+            "email": "usermail4@gmail.com",
+            "password": "Password4!"
+        },
+        {
+            "id": 5,
+            "username": "name5",
+            "email": "usermail5@gmail.com",
+            "password": "Password5!"
+        },
+        {
+            "id": 6,
+            "username": "name6",
+            "email": "usermail6@gmail.com",
+            "password": "Password6!"
+        },
+        {
+            "id": 7,
+            "username": "name7",
+            "email": "usermail7@gmail.com",
+            "password": "Password7!"
+        },
+        {
+            "id": 8,
+            "username": "name8",
+            "email": "usermail8@gmail.com",
+            "password": "Password8!"
+        },
+        {
+            "id": 9,
+            "username": "name9",
+            "email": "usermail9@gmail.com",
+            "password": "Password9!"
+        },
+        {
+            "id": 10,
+            "username": "name10",
+            "email": "usermail10@gmail.com",
+            "password": "Password10!"
+        }
+    ],
+    "Cars": {
+      "New cars": [
+            {
+                "id": 1,
+                "model": "Renault Logan",
+                "engine": 1.6
+                "price": 15000
+            },
+            {
+                "id": 2,
+                "model": "JAC S7",
+                "engine": 1.5
+                "price": 23000
+            },
+            {
+                "id": 3,
+                "model": "Chevrolet Nexia",
+                "engine": 1.5
+                "price": 10000
+            },
+            {
+                "id": 4,
+                "model": "Mercedes-Benz GLB 250",
+                "engine": 2
+                "price": 50000
+            },
+            {
+                "id": 5,
+                "model": "Hyundai Accent ",
+                "engine": 1.4
+                "price": 12000
+            },
+            {
+                "id": 6,
+                "model": "Toyota RAV 4 ",
+                "engine": 2
+                "price": 25000
+            },
+            {
+                "id": 7,
+                "model": "Audi A6",
+                "engine": 2
+                "price": 60000
+            },
+            {
+                "id": 8,
+                "model": "Volkswagen Polo",
+                "engine": 1.6
+                "price": 14000
+            },
+            {
+                "id": 9,
+                "model": "Subaru Forester",
+                "engine": 2.5
+                "price": 42000
+            },
+            {
+                "id": 10,
+                "model": "Toyota Camry",
+                "engine": 2.5
+                "price": 31000
+            }
+        ],
+        "Rare cars": [
+            {
+                "id": 1,
+                "model": " Bugatti Type 57SC Atlantic",
+                "engine": 3.2
+                "price": 40000000
+            },
+            {
+                "id": 2,
+                "model": "Ferrari 250 GTO",
+                "engine": 3
+                "price": 48000000
+            },
+            {
+                "id": 3,
+                "model": "Jaguar E-Type",
+                "engine": 3.8
+                "price": 480000
+            },
+            {
+                "id": 4,
+                "model": "Mercedes-Benz 300SL",
+                "engine": 3
+                "price": 1500000
+            },
+            {
+                "id": 5,
+                "model": "Cadillac V-16",
+                "engine": 8
+                "price": 500000
+            },
+            {
+                "id": 6,
+                "model": "Rolls Royce Silver Ghost",
+                "engine": 5
+                "price": 75000000
+            },
+            {
+                "id": 7,
+                "model": "Porsche 550",
+                "engine": 8
+                "price": 2000000
+            },
+            {
+                "id": 8,
+                "model": "Alfa Romeo 8С 2900",
+                "engine": 10
+                "price": 1100000
+            },
+            {
+                "id": 9,
+                "model": "Delahaye 175",
+                "engine": 12
+                "price": 3000000
+            },
+            {
+                "id": 10,
+                "model": "Mercedes-Benz SSK",
+                "engine": 8
+                "price": 20000000
+            }
+        ],
+        "Electric cars": [
+            {
+                "id": 1,
+                "model": "Model S",
+                "battary": 100
+                "price": 65000
+            },
+            {
+                "id": 2,
+                "model": "Model Y",
+                "battary": 100
+                "price": 31000
+            },
+            {
+                "id": 3,
+                "model": "Model 3",
+                "battary": 120
+                "price": 30000
+            },
+            {
+                "id": 4,
+                "model": "Model X",
+                "battary": 150
+                "price": 70000
+            },
+            {
+                "id": 5,
+                "model": "Kia Soul EV",
+                "battary": "120
+                "price": 20000
+            },
+            {
+                "id": 6,
+                "model": "Volkswagen e-Up",
+                "battary": 150
+                "price": 20000
+            },
+            {
+                "id": 7,
+                "model": "Peugeot e-208",
+                "battary": 200
+                "price": 25000
+            },
+            {
+                "id": 8,
+                "model": "Renault Zoe",
+                "battary": 165
+                "price": 23000
+            },
+            {
+                "id": 9,
+                "model": "Audi e-tron",
+                "battary": 175
+                "price": 32000
+            },
+            {
+                "id": 10,
+                "model": "Volkswagen ID.3",
+                "battary": 150
+                "price": 35000
+            }
+        ],
+        "Racing cars": [
+            {
+                "id": 1,
+                "model": "Lamborghini Huracan GT3",
+                "engine": 5.2
+                "price": 295000
+            },
+            {
+                "id": 2,
+                "model": "1973 Trojan T-101 F5000",
+                "engine": 4.5
+                "price": 300000
+            },
+            {
+                "id": 3,
+                "model": "Ginetta G56 GTA",
+                "engine": 5
+                "price": 500000
+            },
+            {
+                "id": 4,
+                "model": "Sierra Cosworth",
+                "engine": 4.2
+                "price": 450000
+            },
+            {
+                "id": 5,
+                "model": "Ford Sierra Wolf Racing",
+                "engine": 5.8
+                "price": 395000
+            },
+            {
+                "id": 6,
+                "model": "Osella PA6",
+                "engine": 4
+                "price": 245000
+            },
+            {
+                "id": 7,
+                "model": "MardPorsche 924or",
+                "engine": 6
+                "price": 295000
+            },
+            {
+                "id": 8,
+                "model": "TF SPORT ASTON MARTIN",
+                "engine": 350000
+                "price": 654000
+            },
+            {
+                "id": 9,
+                "model": "Caterham Super Seven Academy Car",
+                "engine": 8
+                "price": 23000
+            },
+            {
+                "id": 10,
+                "model": "Lamborghini Huracan GT2",
+                "engine": 5.2
+                "price": 295000
+            }
+        ]
+    }
+}
