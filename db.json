@@ -1,3 +1,38 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@YedilSanatov 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+YedilSanatov
+/
+mockjson2
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+mockjson2/db.json
+@YedilSanatov
+YedilSanatov Update db.json
+Latest commit 1c8d42b now
+ History
+ 1 contributor
+314 lines (314 sloc)  7.94 KB
+  
 {
     "users": [
         {
@@ -219,31 +254,31 @@
             },
             {
                 "id": 6,
-                "model": "Volkswagen",
+                "model": "Volkswagen e-Up",
                 "battary": 150
                 "price": 20000
             },
             {
                 "id": 7,
-                "model": "Peugeot",
+                "model": "Peugeot e-208",
                 "battary": 200
                 "price": 25000
             },
             {
                 "id": 8,
-                "model": "Renault",
+                "model": "Renault Zoe",
                 "battary": 165
                 "price": 23000
             },
             {
                 "id": 9,
-                "model": "Audi",
+                "model": "Audi e-tron",
                 "battary": 175
                 "price": 32000
             },
             {
                 "id": 10,
-                "model": "Volkswagen",
+                "model": "Volkswagen ID.3",
                 "battary": 150
                 "price": 35000
             }
@@ -251,19 +286,19 @@
         "Racing cars": [
             {
                 "id": 1,
-                "model": "Lamborghini Huracan",
+                "model": "Lamborghini Huracan GT3",
                 "engine": 5.2
                 "price": 295000
             },
             {
                 "id": 2,
-                "model": "1973 Trojan F5000",
+                "model": "1973 Trojan T-101 F5000",
                 "engine": 4.5
                 "price": 300000
             },
             {
                 "id": 3,
-                "model": "Ginetta G56",
+                "model": "Ginetta G56 GTA",
                 "engine": 5
                 "price": 500000
             },
@@ -275,7 +310,7 @@
             },
             {
                 "id": 5,
-                "model": "Ford Sierra Wolf",
+                "model": "Ford Sierra Wolf Racing",
                 "engine": 5.8
                 "price": 395000
             },
@@ -287,28 +322,29 @@
             },
             {
                 "id": 7,
-                "model": "MardPorsche",
+                "model": "MardPorsche 924or",
                 "engine": 6
                 "price": 295000
             },
             {
                 "id": 8,
-                "model": "SPORT ASTON MARTIN",
+                "model": "TF SPORT ASTON MARTIN",
                 "engine": 350000
                 "price": 654000
             },
             {
                 "id": 9,
-                "model": "Caterham Super Seven",
+                "model": "Caterham Super Seven Academy Car",
                 "engine": 8
                 "price": 23000
             },
             {
                 "id": 10,
-                "model": "Lamborghini Huracan",
+                "model": "Lamborghini Huracan GT2",
                 "engine": 5.2
                 "price": 295000
             }
         ]
     }
 }
+
