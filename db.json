@@ -65,19 +65,19 @@
       "New cars": [
             {
                 "id": 1,
-                "model": "Renault_Logan",
+                "model": "Renault Logan",
                 "engine": 1.6
                 "price": 16000
             },
             {
                 "id": 2,
-                "model": "JAC_S7",
+                "model": "JAC S7",
                 "engine": 1.5
                 "price": 20000
             },
             {
                 "id": 3,
-                "model": "Chevrolet_Nexia",
+                "model": "Chevrolet Nexia",
                 "engine": 1.5
                 "price": 10000
             },
