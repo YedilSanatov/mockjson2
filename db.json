@@ -67,13 +67,13 @@
                 "id": 1,
                 "model": "Renault Logan",
                 "engine": 1.6
-                "price": 15000
+                "price": 16000
             },
             {
                 "id": 2,
                 "model": "JAC S7",
                 "engine": 1.5
-                "price": 23000
+                "price": 20000
             },
             {
                 "id": 3,
