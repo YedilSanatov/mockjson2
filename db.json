@@ -219,31 +219,31 @@
             },
             {
                 "id": 6,
-                "model": "Volkswagen e-Up",
+                "model": "Volkswagen",
                 "battary": 150
                 "price": 20000
             },
             {
                 "id": 7,
-                "model": "Peugeot e-208",
+                "model": "Peugeot",
                 "battary": 200
                 "price": 25000
             },
             {
                 "id": 8,
-                "model": "Renault Zoe",
+                "model": "Renault",
                 "battary": 165
                 "price": 23000
             },
             {
                 "id": 9,
-                "model": "Audi e-tron",
+                "model": "Audi",
                 "battary": 175
                 "price": 32000
             },
             {
                 "id": 10,
-                "model": "Volkswagen ID.3",
+                "model": "Volkswagen",
                 "battary": 150
                 "price": 35000
             }
@@ -251,19 +251,19 @@
         "Racing cars": [
             {
                 "id": 1,
-                "model": "Lamborghini Huracan GT3",
+                "model": "Lamborghini Huracan",
                 "engine": 5.2
                 "price": 295000
             },
             {
                 "id": 2,
-                "model": "1973 Trojan T-101 F5000",
+                "model": "1973 Trojan F5000",
                 "engine": 4.5
                 "price": 300000
             },
             {
                 "id": 3,
-                "model": "Ginetta G56 GTA",
+                "model": "Ginetta G56",
                 "engine": 5
                 "price": 500000
             },
@@ -275,7 +275,7 @@
             },
             {
                 "id": 5,
-                "model": "Ford Sierra Wolf Racing",
+                "model": "Ford Sierra Wolf",
                 "engine": 5.8
                 "price": 395000
             },
@@ -287,25 +287,25 @@
             },
             {
                 "id": 7,
-                "model": "MardPorsche 924or",
+                "model": "MardPorsche",
                 "engine": 6
                 "price": 295000
             },
             {
                 "id": 8,
-                "model": "TF SPORT ASTON MARTIN",
+                "model": "SPORT ASTON MARTIN",
                 "engine": 350000
                 "price": 654000
             },
             {
                 "id": 9,
-                "model": "Caterham Super Seven Academy Car",
+                "model": "Caterham Super Seven",
                 "engine": 8
                 "price": 23000
             },
             {
                 "id": 10,
-                "model": "Lamborghini Huracan GT2",
+                "model": "Lamborghini Huracan",
                 "engine": 5.2
                 "price": 295000
             }
